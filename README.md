@@ -17,7 +17,7 @@ UW Data Bootcamp - Module 14
   
 - ### **Findings:**
 
-  - ![](\images\customer_demographics.PNG)
+  - ![](images\customer_demographics.PNG)
 
   The first dashboard tell us the important counts which are needed to compare the New York data with Des Moines data. We started with the count of trips taken in the month of August. Trips are further broken down by the gender(calculated field) and we can see that there's a 1:3 female/male ratio. We also added the breakdown on Customer Type, the subscriber as the name suggest are on monthly/annual contracts where as customer are the one renting the bikes for a one-time use. The last graph breakdown the monthly count by peak hours so any maintenance work, downtime etc. can be accounted and scheduled based on the data. From the bar graph above we can see that between 2-5am is the most optimal time for bike repairs and maintenance.  The other way to look at the bar graph is the need of customer associates during the peak time of the day. 
 
