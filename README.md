@@ -17,19 +17,19 @@ UW Data Bootcamp - Module 14
   
 - ### **Findings:**
 
-  - ![](images\customer_demographics.PNG)
+  - ![](/images/customer_demographics.PNG)
 
   The first dashboard tell us the important counts which are needed to compare the New York data with Des Moines data. We started with the count of trips taken in the month of August. Trips are further broken down by the gender(calculated field) and we can see that there's a 1:3 female/male ratio. We also added the breakdown on Customer Type, the subscriber as the name suggest are on monthly/annual contracts where as customer are the one renting the bikes for a one-time use. The last graph breakdown the monthly count by peak hours so any maintenance work, downtime etc. can be accounted and scheduled based on the data. From the bar graph above we can see that between 2-5am is the most optimal time for bike repairs and maintenance.  The other way to look at the bar graph is the need of customer associates during the peak time of the day. 
 
-<img src="\images\trips_by_gender_weekday_per_hour.PNG" style="zoom:75%;" />
+<img src="/images/trips_by_gender_weekday_per_hour.PNG" style="zoom:75%;" />
 
 The above graphs narrative goes with the 'Peak Hour' bar graph as we can see on weekdays the peak hours are in the morning from 6-9am and 5-8pm for both the genders. Saturday schedule gets busy around 9am and its consistently busy till 7pm. Sunday is an off day as compare to Saturday
 
-![user_trips_by_gender_by_weekday](\images\user_trips_by_gender_by_weekday.PNG)
+![user_trips_by_gender_by_weekday](/images/user_trips_by_gender_by_weekday.PNG)
 
 The above analysis shows that we have more subscribers than regular customers
 
-![checkout_times_by_user_by_gender](\images\checkout_times_by_user_by_gender.PNG)
+![checkout_times_by_user_by_gender](/images/checkout_times_by_user_by_gender.PNG)
 
 Checkout time for each user and breakdown by gender. its safe to say that 3-6hours is the amount of time a user usually rents the bike.
 
@@ -37,9 +37,9 @@ Checkout time for each user and breakdown by gender. its safe to say that 3-6hou
 
 ### **Data Anomalies:**
 
-![data_anomaly1](\images\data_anomaly1.PNG)
+![data_anomaly1](/images/data_anomaly1.PNG)
 
-![data_anomaly2](\images\data_anomaly2.PNG)
+![data_anomaly2](/images/data_anomaly2.PNG)
 
 ### **Other graphs that can be created/tweaked:**
 
